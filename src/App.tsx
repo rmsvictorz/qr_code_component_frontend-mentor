@@ -3,7 +3,7 @@ import './App.scss';
 function App() {
 
   return (
-    <aside role='Presentation' className='card'>
+    <aside role='presentation' className='card'>
       <img src="/assets/qr-code.png" alt="QR Code" />
       <h1>Improve your front-end  skills by building projects</h1>
       <p>
